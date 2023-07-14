@@ -9,7 +9,7 @@ from aiogram.dispatcher.filters import Text
 from aiogram.dispatcher.filters.state import State, StatesGroup
 
 # Устанавливаем токен бота
-TOKEN = '5636032442:AAHhEv-K3pGk4afPkLGbgLXuQCWMdMltkvQ'
+TOKEN = '6381802557:AAFWY0gQdmD1FRC9lXuvzC2L0OMABkfgXjs'
 
 # Создаем экземпляр бота и хранилища состояний
 bot = Bot(token=TOKEN)
